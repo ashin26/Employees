@@ -1,0 +1,8 @@
+Peter Rabbit,32,9.5
+Tung Kong,18,42.25
+Holly Gummely,50,18.7
+Aigerim Shintemirova,68,164.0
+Gunar Wolfdenka,28,74.6
+Oscar Morales,40,36.0
+Kevin Oktavian,16,10.5
+hello world,12,50.0
